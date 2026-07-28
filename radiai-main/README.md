@@ -21,13 +21,11 @@ This is a small experiment of building an AI music radio as a vintage 3D radio e
 - TypeScript
 - Three.js with React Three Fiber
 - Web Audio API
-- Appwrite storage bucket, sites for deployment.
+- ElevenLabs Music API
+- Vercel ( Deployment)
 
-### Development
+## 🌐 Live Demo
 
-Start the development server:
-```bash
-npm run dev
-```
+🔗 **Live Application:** https://dirty-daona-ai-radio-music-irwi.vercel.app/
 
-Open [http://localhost:4321](http://localhost:4321) on the browser to see the webpage.
+> Experience AI-powered music generation through an interactive 3D vintage radio interface.
